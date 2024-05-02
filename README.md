@@ -2,6 +2,12 @@ CREDENTIALS FOR MY PROJECT
 Username:  nepomuscene
 Password:  222016429
 
+YOU CAN USE THESE CREDENTIALS IF YOU WANT TO LOGIN WITH SYSTEM
+email: nepoiradukunda69@gmail.com
+password: nepo@69
+
+
+DESCRIPTION OF STOCK MANAGEMENT SYSTEM FOR PROJECT STRUCTURE, FUNCTIONALITIES AND USAGE:
 The Stock Management System is a software application designed to help businesses manage their inventory efficiently. It provides tools for tracking stock levels, managing product information, and generating reports to aid in decision-making.
 1. Project Structure:
 Overview: Briefly introduce the project and its purpose.
